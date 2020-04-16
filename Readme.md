@@ -1,5 +1,4 @@
-# Object Tracking by Detection Repository
+# Trajector Tracker for UMV
 
-extracted from Tensorflow Object Detection API. 
 
-files tracker_root_code.py and tracker_centroid.py have the tracking by detection codes. 
+Check the Project Report for more details
